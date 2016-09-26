@@ -1,0 +1,7 @@
+@import "masStyle.css";
+/*Importante: Cuando incluimos un import, debe preceder cualquier otra regla CSS*/
+
+body {
+  background-color: gray;
+  font-size: 24px;
+}
